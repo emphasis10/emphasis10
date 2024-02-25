@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femphasis10&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<h3>What I've learned</h3>
+<h3>What I've learned..</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -29,7 +29,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&amp;logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
+</p>
+
+<h3>Recently interested in..</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp
 </p>
 
 <h3>📬 Find me at</h3>
