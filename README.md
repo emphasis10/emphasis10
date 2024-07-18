@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eunsik-lee-18339317a/)](https://www.linkedin.com/in/eunsik-lee-18339317a/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@tacorico)](https://velog.io/@tacorico)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emphasis10&show_icons=true&theme=material-palenight)
